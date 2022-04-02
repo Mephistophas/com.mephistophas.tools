@@ -4,6 +4,12 @@
     "displayName": "Mephistophas' Tools",
     "description": "This package allows you to automatically create your base folders for any game you are making in unity. This version creates a '_Project' folder and inside it, a folder for each of these: 'Scripts', 'Art', 'Scenes','Sounds'. Then in the 'Art' folder there is an 'Animations' and a 'Sprites' folder\n\nIn this version I have added my personal basic file settings instead of the ones above. Highly recommendable if you want to use them to use UI Toolkit and UI Builder\nI have also added an 'elaborate folders' option though it's not too elaborate since it is meant to be only for basic folders",
     "keywords": ["setup"],
+    "repository": 
+    {
+        "url": "https://github.com/Mephistophas/com.mephistophas.tools.git",
+        "type": "git",
+        "revision": "vadcvja2354dacuvu2"
+    },
     "author":
     {
         "name":"Mephistophas Nyx",
